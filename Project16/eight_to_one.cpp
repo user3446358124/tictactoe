@@ -141,6 +141,6 @@ int main()
     game.hello();
     bool success = game.opeartor();
     game.nest(success);
-    cout << "student" << endl;
+    cout << "ÐÎÊ½ÅÐ¶Ï" << endl;
     return 0;
 }
