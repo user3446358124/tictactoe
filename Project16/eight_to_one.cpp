@@ -141,6 +141,6 @@ int main()
     game.hello();
     bool success = game.opeartor();
     game.nest(success);
-    cout << "这是在github网站上发布的内容" << endl;
+    cout << "develop1" << endl;
     return 0;
 }
